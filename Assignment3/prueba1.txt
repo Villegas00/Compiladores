@@ -1,3 +1,0 @@
-program uno
-begin
-end

@@ -1,4 +1,0 @@
-program dos
-begin
-   cirano := cuatro * 7 + 2
-end
