@@ -1,0 +1,13 @@
+program tres
+begin
+   x := 3;
+   do-ifelse (e < 3) [
+     x := x + 1;
+     y := x * 3 * y
+   ]
+   [ x := 3 * y;
+     y := y + 1
+   ];
+   x := x + 1
+end
+
