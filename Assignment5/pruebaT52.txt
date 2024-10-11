@@ -1,4 +1,0 @@
-program dos
-begin
-  x := 4 + 5
-end
